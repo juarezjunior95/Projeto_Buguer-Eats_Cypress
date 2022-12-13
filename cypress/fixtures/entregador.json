@@ -1,0 +1,55 @@
+{
+    "signup": {
+        "nome": "Juarez jr",
+        "cpf": "06941186566",
+        "email": "entregador@gmail.com",
+        "whats":"1199999999",
+        "endereco":{
+         "cep":"42803169",
+         "rua":"Rua Afrânio Peixoto",
+         "numero":"1938",
+         "complemento":"Ap 301",
+         "bairro":"Alto da Cruz",
+         "cidade_uf":"Camaçari/BA"
+      
+              },
+              "metdo_entrega":"Moto",
+              "cnh":"cnh-digital.jpg"
+
+    },
+    "cpf_Inv":{
+        "nome": "Cartuloouco",
+        "cpf": "069411865XA",
+        "email": "entregador@gmail.com",
+        "whats":"1199999999",
+        "endereco":{
+         "cep":"42803169",
+         "rua":"Rua Afrânio Peixoto",
+         "numero":"1938",
+         "complemento":"Ap 301",
+         "bairro":"Alto da Cruz",
+         "cidade_uf":"Camaçari/BA"
+      
+              },
+              "metdo_entrega":"Moto",
+              "cnh":"cnh-digital.jpg"
+    },
+
+    "email_errado": {
+        "nome": "Juarez jr",
+        "cpf": "06941186566",
+        "email": "email-errado123",
+        "whats":"1199999999",
+        "endereco":{
+         "cep":"42803169",
+         "rua":"Rua Afrânio Peixoto",
+         "numero":"1938",
+         "complemento":"Ap 301",
+         "bairro":"Alto da Cruz",
+         "cidade_uf":"Camaçari/BA"
+      
+              },
+              "metdo_entrega":"Moto",
+              "cnh":"cnh-digital.jpg"
+}
+}
